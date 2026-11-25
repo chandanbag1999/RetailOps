@@ -1,6 +1,7 @@
 {
-  "name": "retailops-v1",
+  "name": "@retailops/backend",
   "version": "1.0.0",
+  "private": true,
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +10,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@12.23.0",
   "devDependencies": {
     "@types/node": "^26.6.6",
     "typescript": "^7.0.2"
